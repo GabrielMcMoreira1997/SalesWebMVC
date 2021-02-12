@@ -1,5 +1,5 @@
 ### SalesWebMVC
-Site desenvolvido por mim junto do curso de C# Completo do Prof. Nelio Alves.
+Site desenvolvido por mim junto ao curso de C# Completo do Prof. Nelio Alves.
 
 ##### Aba de departamentos, aqui você será listados os departamentos contidos no banco de dados (SQL Server). O usuário também poderá adicionar, obter detalhes e remover departametos.
 
